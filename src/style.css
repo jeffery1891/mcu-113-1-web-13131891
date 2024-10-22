@@ -27,3 +27,18 @@ th,
 td {
   height: 30px;
 }
+
+td.id {
+  width: 120px;
+  text-align: center;
+}
+
+td.company {
+  width: 150px;
+  text-align: center;
+}
+
+td.price {
+  width: 100px;
+  text-align: right;
+}
